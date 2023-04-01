@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 
+=======
+line from remote
+>>>>>>> 2b2c87394118bea79ec9865dffaab07500c95e71
